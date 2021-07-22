@@ -3,7 +3,11 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
+import { Provider } from 'react-redux';
 
+import configureStore from './store/configureStore';
+
+import 'bootstrap/dist/js/bootstrap.bundle';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import {
   faBriefcase,
@@ -18,6 +22,9 @@ import {
 
 import './css/styles.css';
 
+const store = configureStore();
+console.log(`store`, store.getState());
+
 library.add(
   faBriefcase,
   faPhone,
@@ -30,7 +37,9 @@ library.add(
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <Provider store={store}>
+        <App />
+      </Provider>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')

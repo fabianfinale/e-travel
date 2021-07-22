@@ -1,19 +1,159 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Scarlet Shores Resort",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Totam minus molestias eaque error doloribus iusto tenetur, inventore quis dignissimos quibusdam!"
+    },
+    {
+      "id": 2,
+      "title": "Snowy Safari Resort",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Dolor, perferendis magnam.Dolores dignissimos odio ducimus qui, fugit architecto voluptas.Perferendis quia enim repellat eveniet! Dolorum ea ipsa sapiente eaque ab, culpa neque cum quidem voluptas facere.Eos corporis perferendis accusantium labore, rerum ex debitis iste sit quod, minus fugiat exercitationem ?"
+    },
+    {
+      "id": 3,
+      "title": "Golden Peninsula Resort & Spa",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Fuga inventore a consectetur animi architecto quas dolore nihil quod voluptatem officiis commodi minima eveniet, rem optio doloribus tempore repellendus sed vel ratione itaque culpa excepturi ? Veritatis, fugiat facere.Culpa, quibusdam tempora."
+    },
+    {
+      "id": 4,
+      "title": "Regal Luxury Hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Nemo ex quae perferendis tempore molestiae perspiciatis, repellendus laudantium natus, esse, soluta dicta repudiandae ? Molestiae eaque quas accusantium, maiores alias dolore aliquid consequatur, dicta tempora possimus sed ducimus labore facilis voluptates totam sint autem a nesciunt ea ? Numquam dicta quam sunt cumque magnam, nulla ipsum aliquam, omnis dolorum deserunt eius dignissimos hic."
+    },
+    {
+      "id": 5,
+      "title": "Primal Dune Hotel & Spa",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Sapiente, autem vitae doloremque architecto consequuntur, alias quam praesentium sit dolorum expedita neque ex enim reiciendis obcaecati porro.Eum culpa distinctio tempora ?"
+    },
+    {
+      "id": 6,
+      "title": "Onyx Thicket Resort",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Nulla, explicabo mollitia itaque nostrum, cum cumque modi atque provident quisquam, facilis quam quo enim aperiam voluptatibus repudiandae harum perferendis ipsam ipsum voluptate ratione dolorem ? Commodi magni voluptate repellat ?"
+    },
+    {
+      "id": 7,
+      "title": "Courtyard Hotel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Expedita tenetur, aperiam dolor, eligendi doloribus quasi nihil optio ducimus veniam quidem porro ipsa illo numquam beatae recusandae.Repellat quas nobis placeat enim modi harum quo reprehenderit, nostrum excepturi libero provident error!"
+    },
+    {
+      "id": 8,
+      "title": "Paradise Resort",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Excepturi rerum ducimus architecto quidem neque atque aut ex nam laborum unde provident, dolorem facere natus recusandae totam laudantium iste perferendis!"
+    },
+    {
+      "id": 9,
+      "title": "Glacier Resort",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Voluptatem autem voluptate accusamus provident hic cumque dolorum vero, impedit, nulla in nesciunt quisquam illo et omnis esse placeat ex alias quaerat soluta minima odit!"
+    },
+    {
+      "id": 10,
+      "title": "Breakwater Resort & Spa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eius voluptate illum error, ullam quo explicabo officiis corporis qui quae commodi magni omnis sunt quasi possimus fuga dignissimos neque at optio minus temporibus quaerat laudantium id ut! Eos, reiciendis rem! Odit nisi totam suscipit eaque amet."
+    },
+    {
+      "id": 11,
+      "title": "Spring Canopy Hotel",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Temporibus, magni incidunt! Ad, fugiat! Iure quasi quibusdam illum rerum! Asperiores error nisi ut."
+    },
+    {
+      "id": 12,
+      "title": "Secluded Heirloom Hotel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Consequuntur sunt consequatur deleniti ? Quae expedita ut voluptatem cupiditate vitae, a inventore temporibus adipisci tempora, officia soluta labore pariatur molestias mollitia repellat maxime ad.Eligendi nostrum distinctio aut fuga porro!"
+    },
+    {
+      "id": 13,
+      "title": "Ancient Cabin Hotel",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Ducimus repellat quos qui ipsum eveniet laboriosam mollitia odit! Officia, libero voluptatibus dolor delectus excepturi quod maxime.Obcaecati, a."
+    },
+    {
+      "id": 14,
+      "title": "Elite Canopy Resort",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Eaque harum dolorum nam quos impedit aliquid suscipit eligendi dolorem deserunt id rem dolores expedita cupiditate nesciunt nulla earum est eum porro sunt alias, magnam debitis sint modi.Modi itaque porro obcaecati placeat necessitatibus magni similique, autem dolorem ipsum voluptatum, repellendus fugiat ?"
+    },
+    {
+      "id": 15,
+      "title": "Antique Cottage Hotel & Spa",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Rem nobis, molestias quaerat qui dolorum voluptates soluta voluptatibus reprehenderit maiores recusandae ducimus sit libero similique ullam magni ? Iure voluptatem provident maiores."
+    },
+    {
+      "id": 16,
+      "title": "Royal Sierra Hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Sequi praesentium fuga nemo atque asperiores voluptatibus dolorum impedit ex sit quae!"
+    },
+    {
+      "id": 17,
+      "title": "Regal Resort",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Repudiandae perspiciatis, quae, quo natus maiores tenetur expedita in possimus, quod eaque deleniti veritatis voluptatem animi corporis.Neque sapiente eaque ducimus quidem voluptates explicabo nostrum, nisi ab, aspernatur vel odio ex provident ? Quae ratione deleniti aliquam voluptatibus.Quos ex iusto tempore nesciunt ?"
+    },
+    {
+      "id": 18,
+      "title": "Stellar Resort",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Harum veritatis adipisci inventore voluptates quibusdam qui sit id, repudiandae, repellendus dolorem ipsam asperiores amet enim neque nam.Culpa similique enim voluptas repudiandae! Tempora praesentium aut molestiae animi voluptas, beatae delectus reiciendis!"
+    },
+    {
+      "id": 19,
+      "title": "Prism Hotel & Spa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Facilis voluptatibus amet temporibus excepturi possimus architecto impedit ut vitae quisquam non ex, cum iusto velit veniam eos dolor nesciunt! Dignissimos voluptates obcaecati perferendis minima labore officiis sequi a aliquid reprehenderit molestiae nisi nulla sit dolores dolorum aspernatur, pariatur asperiores nobis cupiditate."
+    },
+    {
+      "id": 20,
+      "title": "Enterprise Resort",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quisquam accusamus ullam porro quos animi minima dolorem laudantium voluptas nostrum vero ? Quos maxime aliquam ab nobis ? Vitae quibusdam ducimus vel provident."
+    },
+    {
+      "id": 21,
+      "title": "Pacific Prairie Hotel & Spa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Sint harum repudiandae maiores perferendis non inventore beatae natus veritatis sapiente cum et expedita iusto amet id optio cupiditate officia iure, blanditiis atque culpa doloribus accusamus neque ? Necessitatibus rem molestias natus ? Eius ?"
+    },
+    {
+      "id": 22,
+      "title": "Historic Peak Hotel & Spa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Aspernatur, perspiciatis.Veniam, tenetur dignissimos debitis ullam quasi quos sequi velit repudiandae laudantium adipisci corrupti at, repellendus autem vitae mollitia perferendis iusto."
+    },
+    {
+      "id": 23,
+      "title": "Aquamarine Palace Resort",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Vitae obcaecati non blanditiis.Delectus vitae ipsam aspernatur, molestiae odit animi vero assumenda voluptatibus itaque corrupti eius eaque, dolorem dolores nulla at perspiciatis ut.Repudiandae nam, sapiente hic quae perferendis necessitatibus quibusdam."
+    },
+    {
+      "id": 24,
+      "title": "Light Residence Resort & Spa",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Tempore nostrum recusandae amet veniam quas ab, eligendi quasi illo magnam quo.Quos distinctio asperiores ducimus vitae ullam eligendi maxime, laboriosam aliquid quia fuga, voluptatem et quae quod! Consectetur, illo.Magni ?"
+    },
+    {
+      "id": 25,
+      "title": "Cerulean Dream Resort",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Ea quam repellendus corrupti possimus similique ? Minus ipsum exercitationem aut praesentium quam, reiciendis nostrum sunt illum omnis suscipit vitae maxime iste, animi sit fuga nemo ? Corrupti ?"
+    },
+    {
+      "id": 26,
+      "title": "Remote Canyon Hotel & Spa",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Quia asperiores consequuntur dignissimos earum dicta commodi saepe possimus rerum consequatur harum, blanditiis corrupti voluptatem minus quos natus.Doloribus non, soluta vero possimus omnis recusandae molestias adipisci similique odio hic sit quaerat facilis, nemo amet ab nobis error dolorem tempora nisi accusamus."
+    },
+    {
+      "id": 27,
+      "title": "Royal Hotel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Velit consectetur, delectus nam ad dignissimos distinctio, quas vero, provident inventore rem similique.Ea commodi consequuntur eum vel suscipit alias quam dolorum ducimus dolores.Autem ipsa accusantium quaerat ?"
+    },
+    {
+      "id": 28,
+      "title": "Nature Motel",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Ipsum ipsam pariatur assumenda natus neque! Illo, pariatur beatae eveniet rerum accusantium aperiam cupiditate distinctio quisquam officiis quasi, eos reiciendis esse! Modi, enim.Deleniti necessitatibus fuga, laboriosam voluptatibus nulla atque suscipit quasi."
+    },
+    {
+      "id": 29,
+      "title": "Stardust Hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Perferendis architecto amet dignissimos, rerum aliquid error vero corporis eaque voluptatum reprehenderit quo explicabo soluta exercitationem iure officiis repellat quis quos minus!"
+    },
+    {
+      "id": 30,
+      "title": "Vanilla Hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum incidunt excepturi esse asperiores ipsa molestias? Nihil rem magni nulla assumenda aliquid, quia dolorem delectus porro accusantium reprehenderit numquam quasi, alias repudiandae! Ipsa, ratione."
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": { "name": "typicode" }
 }
