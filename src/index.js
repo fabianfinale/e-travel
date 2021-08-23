@@ -1,12 +1,37 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom';
+
+import { library } from '@fortawesome/fontawesome-svg-core';
+import {
+  faBriefcase,
+  faPhone,
+  faEnvelope,
+} from '@fortawesome/free-solid-svg-icons';
+import {
+  faFacebook,
+  faInstagram,
+  faTwitter,
+} from '@fortawesome/free-brands-svg-icons';
+
+import './css/styles.css';
+
+library.add(
+  faBriefcase,
+  faPhone,
+  faEnvelope,
+  faFacebook,
+  faInstagram,
+  faTwitter
+);
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
